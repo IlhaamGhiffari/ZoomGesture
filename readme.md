@@ -28,7 +28,8 @@ pip install pillow
 
 1. Jalankan aplikasi dengan menjalankan skrip Python.
 2. Pilih gambar yang ingin dilihat melalui dialog yang muncul.
-3. Lakukan gerakan tangan di depan webcam untuk membesarkan atau mengecilkan gambar.
+3. Munculkan kedua telapak tangan anda di kamera
+4. Lakukan gerakan tangan di depan webcam untuk membesarkan atau mengecilkan gambar.
 
 ## Catatan
 
