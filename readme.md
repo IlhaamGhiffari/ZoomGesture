@@ -26,19 +26,19 @@ pip install pillow
 
 ## Cara Penggunaan
 
-1. Jalankan aplikasi dengan menjalankan skrip Python.
+1. Jalankan aplikasi dengan menjalankan cell Python notebook versi 1 atau versi 2.
 2. Pilih gambar yang ingin dilihat melalui dialog yang muncul.
 3. Munculkan kedua telapak tangan anda di kamera
-4. Lakukan gerakan mencubit dengan kedua tangan di depan webcam untuk membesarkan atau mengecilkan gambar.
+4. Lakukan gerakan mencubit dengan kedua tangan di depan webcam untuk membesarkan atau mengecilkan gambar untuk versi 1.
+5. untuk versi 2 satu tangan untuk melakukan zoom, dan satu tangan lagi untuk panning
 
 ## Catatan
 
 - Pastikan webcam Anda terhubung dan berfungsi dengan baik.
 - Aplikasi ini mungkin memerlukan penyesuaian tergantung pada spesifikasi sistem dan webcam.
 
-## Kontribusi
-
-Kontribusi untuk perbaikan dan penambahan fitur pada aplikasi ini sangat diterima. Silakan buat pull request atau issue di repositori ini.
+## Video Demonstrasi
+https://youtu.be/exWFcu3jEdY
 
 ---
 
